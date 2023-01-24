@@ -26,5 +26,5 @@ The MoEWe Notebook (MoEWe.ipynb) provides guidance for generating standardized E
 3.	After successfully running MoEWe.ipynb the file “EWU_Dashboard.xlsx” is saved in your local directory.  
 
    
-Additional information are available in the associated publication:
+Additional information are available in the associated publication:  
 Schmidt, S.; Laner, D. (in preparation): Environmental Waste Utilization score to monitor the performance of waste management systems
