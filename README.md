@@ -8,19 +8,19 @@ The MoEWe Notebook (MoEWe.ipynb) provides guidance for generating standardized E
 1.2.	To search for LCIA methods and elementary flows use the ecoinvent LCIA file (ecoinvent 3.x_cutoff_cumulative_lcia_xlsx.7z available via the ecoinvent webpage) corresponding to your ecoinvent version.   
 2.	Generate the EWU Dashboard:   
 2.1.	Store all relevant files in a local directory  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.1.1.	InputData.xlsx  
-2.1.2.	ecoinvent-LCIA-file (ecoinvent 3.x_cutoff_cumulative_lcia_xlsx.7z)  
-2.1.3.	Download and unzip the ecoinvent-Database  
-2.1.4.	MoEWe.ipynb  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.1.	InputData.xlsx  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.2.	ecoinvent-LCIA-file (ecoinvent 3.x_cutoff_cumulative_lcia_xlsx.7z)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.3.	Download and unzip the ecoinvent-Database  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.1.4.	MoEWe.ipynb  
 2.2.	Install a Python distribution, such as Anaconda  
 2.3.	Create an environment considering the required packages (cf. Requirements.txt) or import the provided environment by following steps 2.3.1-2.3.3.  
-  2.3.1.	Store environment.yml in your user directory ("C:\Users\UserName\environment.yml")  
-  2.3.2.	Open Anaconda Prompt  
-  2.3.3.	Enter the command “conda env create -f environment.yml - y”  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.1.	Store environment.yml in your user directory ("C:\Users\UserName\environment.yml")  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.2.	Open Anaconda Prompt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.3.3.	Enter the command “conda env create -f environment.yml - y”  
 2.4.	Run MoEWe.ipynb  
-  2.4.1.	Open Anaconda Prompt  
-  2.4.2.	Activate the MoEWE-environment (“conda activate MoEWe”)  
-  2.4.3.	Open Jupyter Notebook (enter the command “jupyter notebook”)  
-  2.4.4.	Open MoEWe.ipynb via Anaconda prompt.  
-  2.4.5.	Run all. (Correct errors in input data, if needed.)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.1.	Open Anaconda Prompt  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.2.	Activate the MoEWE-environment (“conda activate MoEWe”)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.3.	Open Jupyter Notebook (enter the command “jupyter notebook”)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.4.	Open MoEWe.ipynb via Anaconda prompt.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.5.	Run all. (Correct errors in input data, if needed.)  
 3.	After successfully running MoEWe.ipynb the file “EWU_Dashboard.xlsx” is saved in your local directory.  
