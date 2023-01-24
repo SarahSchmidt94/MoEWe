@@ -24,3 +24,7 @@ The MoEWe Notebook (MoEWe.ipynb) provides guidance for generating standardized E
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.4.	Open MoEWe.ipynb via Anaconda prompt.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.4.5.	Run all. (Correct errors in input data, if needed.)  
 3.	After successfully running MoEWe.ipynb the file “EWU_Dashboard.xlsx” is saved in your local directory.  
+
+   
+Additional information are available in the associated publication:
+Schmidt, S.; Laner, D. (in preparation): Environmental Waste Utilization score to monitor the performance of waste management systems
