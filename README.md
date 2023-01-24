@@ -8,7 +8,7 @@ The MoEWe Notebook (MoEWe.ipynb) provides guidance for generating standardized E
 1.2.	To search for LCIA methods and elementary flows use the ecoinvent LCIA file (ecoinvent 3.x_cutoff_cumulative_lcia_xlsx.7z available via the ecoinvent webpage) corresponding to your ecoinvent version.   
 2.	Generate the EWU Dashboard:   
 2.1.	Store all relevant files in a local directory  
-<space><space>2.1.1.	InputData.xlsx  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp 2.1.1.	InputData.xlsx  
 <space><space>2.1.2.	ecoinvent-LCIA-file (ecoinvent 3.x_cutoff_cumulative_lcia_xlsx.7z)  
 <space><space>2.1.3.	Download and unzip the ecoinvent-Database  
 <space><space>2.1.4.	MoEWe.ipynb  
