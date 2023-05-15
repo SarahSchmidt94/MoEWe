@@ -28,4 +28,4 @@ The MoEWe Notebook (MoEWe.ipynb) provides guidance for generating standardized E
 
    
 Additional information are available in the associated publication:  
-*Schmidt, S.; Laner, D. (in preparation): Environmental Waste Utilization score to monitor the performance of waste management systems*
+*Schmidt, S.; Laner, D. (in preparation): Environmental Waste Utilization score to monitor the performance of waste management systems: A novel indicator applied to case studies in Germany*
